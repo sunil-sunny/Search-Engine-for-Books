@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 19022
+Build-Jdk: 12.0.2
+Implementation-Title: SearchEngine
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example.cloud
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/RecordNotes
+Created-By: Maven Integration for Eclipse
+

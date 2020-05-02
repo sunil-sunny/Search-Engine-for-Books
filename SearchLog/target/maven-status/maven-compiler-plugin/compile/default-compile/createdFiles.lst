@@ -1,0 +1,6 @@
+com\example\cloud\SearchLog\SearchLogApplication.class
+com\example\cloud\SearchLog\service\SearchLogService.class
+com\example\cloud\SearchLog\service\SearchLogServiceImpl.class
+com\example\cloud\SearchLog\pojo\BookDetails.class
+com\example\cloud\SearchLog\rest\SearchLogRestController.class
+com\example\cloud\SearchLog\pojo\LogDetails.class

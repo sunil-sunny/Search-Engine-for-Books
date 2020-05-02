@@ -1,0 +1,5 @@
+com\example\cloud\RecordNotes\pojo\NotesDetails.class
+com\example\cloud\RecordNotes\RecordNotesApplication.class
+com\example\cloud\RecordNotes\service\RecordNotesService.class
+com\example\cloud\RecordNotes\rest\RecordNotesRestController.class
+com\example\cloud\RecordNotes\service\RecordNotesServiceImpl.class
